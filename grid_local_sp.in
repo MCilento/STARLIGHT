@@ -1,3 +1,18 @@
+865                                    [Number of fits to run]
+./modelsnew/                           [base_dir]
+./local_sp files/                      [obs_dir]
+./                                     [mask_dir]
+./local_sp files/                      [out_dir]
+-2007200                               [your phone number]
+4580.0                                 [llow_SN]   lower-lambda of S/N window
+4640.0                                 [lupp_SN]   upper-lambda of S/N window
+3741.0                                 [Olsyn_ini] lower-lambda for fit
+7218.0                                 [Olsyn_fin] upper-lambda for fit
+1.0                                    [Odlsyn]    delta-lambda for fit
+1.0                                    [fscale_chi2] fudge-factor for chi2
+FIT                                    [FIT/FXK] Fit or Fix kinematics
+1                                      [IsErrSpecAvailable] 1/0 = Yes/No
+1                                      [IsFlagSpecAvailable] 1/0 = Yes/No
 1948B.txt StCv04.C11.config Base.CB07.vall.4m Masks.EmLines.NEW.gm CCM 0.0 150.0 1948B.txt
 1954B.txt StCv04.C11.config Base.CB07.vall.4m Masks.EmLines.NEW.gm CCM 0.0 150.0 1954B.txt
 1960M.txt StCv04.C11.config Base.CB07.vall.4m Masks.EmLines.NEW.gm CCM 0.0 150.0 1960M.txt
